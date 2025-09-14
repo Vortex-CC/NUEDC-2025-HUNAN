@@ -1,0 +1,8 @@
+id: testing
+name: 开源测试
+version: 1.0.5
+author: xiang
+icon: app.png
+desc: xiang
+files:
+  - 1.py
